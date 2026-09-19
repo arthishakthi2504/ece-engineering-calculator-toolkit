@@ -65,6 +65,25 @@ Areas of Interest:
 * Electronics
 * Software Development
 
+  ## 📸 Screenshots
+
+### 🏠 Home Dashboard
+
+![Home Dashboard](screenshots/home.png)
+
+### 🔧 Engineering Calculators
+
+![Engineering Calculators](screenshots/electronics-calculators.png)
+
+### 📡 Antenna & 555 Timer
+
+![Antenna and 555 Timer](screenshots/antenna-555.png)
+
+### 📱 Mobile Interface
+
+![Mobile Interface](screenshots/mobile.png)
+
+
 ## ⚠️ Disclaimer
 
 The calculations provided by this application are intended for educational and preliminary engineering use. Results should be independently verified before being used in real-world engineering designs or safety-critical applications.
